@@ -1,0 +1,328 @@
+.navbar {
+    background-color: #333; 
+}
+
+.navbar-dark .navbar-toggler-icon {
+    color: #fff; 
+}
+
+.navbar-toggler {
+    border-color: #fff;
+}
+
+.navbar-toggler:focus, .navbar-toggler:active {
+    outline: none;
+}
+
+#home {
+    background-color: #f8f9fa;
+    text-align: center;
+}
+
+#home h1 {
+    font-size: 2.5rem;
+}
+
+#home p.lead {
+    font-size: 1.25rem; 
+}
+
+#about {
+    background-color: #fff; 
+    padding: 3rem 0;
+}
+
+#experience, #education {
+    background-color: #f8f9fa; 
+    padding: 3rem 0;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+#skills {
+    background-color: #fff; 
+    padding: 3rem 0;
+}
+
+.progress {
+    height: 30px;
+}
+#contact {
+    background-color: #f8f9fa; 
+    padding: 3rem 0;
+}
+
+footer {
+    background-color: #333; 
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.navbar {
+    background-color: #333;
+}
+
+.navbar-dark .navbar-toggler-icon {
+    background-color: #fff;
+}
+
+.navbar-toggler-icon {
+    background-color: #fff;
+}
+
+#home {
+    background-color: #f8f9fa;
+    text-align: center;
+    padding: 50px 0;
+}
+
+#home h1 {
+    font-size: 2.5rem;
+    margin-top: 20px;
+}
+
+#home p.lead {
+    font-size: 1.25rem;
+    margin-bottom: 20px;
+}
+
+#about {
+    padding: 50px 0;
+}
+
+#about h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+#experience, #education {
+    background-color: #f8f9fa;
+    padding: 50px 0;
+}
+
+.card {
+    margin-bottom: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
+.card-text {
+    font-size: 1rem;
+}
+
+#skills {
+    padding: 50px 0;
+}
+
+#skills h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+.progress {
+    height: 30px;
+    margin-bottom: 20px;
+}
+
+#contact {
+    background-color: #f8f9fa;
+    padding: 50px 0;
+}
+
+#contact h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+.form-label {
+    font-weight: bold;
+}
+
+.form-control {
+    margin-bottom: 20px;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px
+}
+
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background-color: #333; 
+}
+
+.navbar-brand {
+    font-size: 1.5rem; 
+    color: #fff; 
+}
+
+.navbar-toggler-icon {
+    background-color: #fff;
+}
+
+.navbar-nav .nav-link {
+    font-size: 1rem;
+    color: #fff; 
+    margin-right: 15px; 
+}
+
+.navbar-nav .nav-link:hover {
+    color: #007bff; 
+}
+.navbar-nav .nav-item.active .nav-link {
+    color: #007bff;
+}
+#home {
+    background-color: #f8f9fa;
+    text-align: center;
+    padding: 50px 0;
+}
+#home h1 {
+    font-size: 2.5rem;
+    margin-top: 20px;
+}
+#home p.lead {
+    font-size: 1.25rem;
+    margin-bottom: 20px;
+}
+#about {
+    padding: 50px 0;
+}
+#about h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+#experience, #education {
+    background-color: #f8f9fa; 
+    padding: 50px 0;
+}
+.card {
+    margin-bottom: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+.card-title {
+    font-size: 1.25rem; 
+    font-weight: bold;
+}
+
+.card-text {
+    font-size: 1rem;
+}
+
+#skills {
+    padding: 50px 0;
+}
+
+#skills h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+.progress {
+    height: 30px;
+    margin-bottom: 20px;
+}
+
+#contact {
+    background-color: #f8f9fa; 
+    padding: 50px 0;
+}
+
+#contact h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+.form-label {
+    font-weight: bold;
+}
+
+.form-control {
+    margin-bottom: 20px;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+footer {
+    background-color: #333; 
+    color: #fff; 
+    text-align: center;
+    padding: 20px 0;
+}
+@media (max-width: 768px) {
+}
+
+.navbar {
+    background-color: #333; 
+}
+
+.navbar-brand {
+    font-size: 1.5rem; 
+    color: #fff;
+}
+
+.navbar-toggler-icon {
+    background-color: #fff; 
+}
+
+.navbar-nav {
+    display: inline-block;
+}
+
+.navbar-nav .nav-item {
+    margin-right: 15px;
+}
+
+.navbar-nav .nav-link {
+    font-size: 1rem;
+    color: #fff;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #007bff;
+}
+
+.navbar-nav .nav-item.active .nav-link {
+    color: #007bff; 
+}
+
